@@ -11,5 +11,5 @@
 #### Migrate DB
 `php artisan migrate`
 
-#### Start the development server
+#### Start the development server 🚀
 `php artisan serve`
